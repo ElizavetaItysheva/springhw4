@@ -23,8 +23,9 @@
     <br>
   <input type="text" name="city" placeholder="Введите название столицы">
     <br>
+    <br>
 
-  <input type="submit">
+  <input type="submit" >
 
 </form>
 
