@@ -8,6 +8,7 @@
 
   <absolute-ordering />
 
+
   <!-- Внутри тега servlet прописываем имя и класс DispatcherServlet -->
   <servlet>
     <servlet-name>dispatcher</servlet-name>
